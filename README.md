@@ -98,7 +98,7 @@ Backend-driven real-time messaging system built using Spring Boot and WebSockets
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anubhav-hajela-77b093298">
+  <a href="https://www.linkedin.com/in/anubhavhajela4">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
   </a>
   <a href="mailto:anubhavhajela4@gmail.com">
