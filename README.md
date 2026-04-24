@@ -11,7 +11,7 @@
 
 - ⭐ **3 Star on CodeChef**
 - 💙 **Specialist on Codeforces**
-- 🧠 1200+ Problems Solved 
+- 🧠 1500+ Problems Solved 
 - 🎯 Strong in: Binary Search, Greedy, Bit Manipulation, DP
 
 <p align="center">
